@@ -96,15 +96,15 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://35.174.19.3:8081/repository/amazon-release/</url>
+	      <id>Nexus</id>
+	      <name>Nexus</name>
+	      <url>http://localhost:8081/repository/Nexus//</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://35.174.19.3:8081/repository/amazon-snapshot/</url>
+	      <id>Nexus</id>
+	      <name>Nexus</name>
+	      <url>http://localhost:8081/repository/Nexus/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
